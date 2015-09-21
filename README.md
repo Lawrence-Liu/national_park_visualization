@@ -5,3 +5,6 @@
 4. write javascript code to visualize US map and the national parks I have been to
 
 Click [here](http://lawrence-liu.github.io/data_visualization/nps/map.html) to check the results
+
+####Todo:
+1. add legend
